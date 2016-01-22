@@ -1,0 +1,17 @@
+{
+  "name": "mongo_db",
+  "version": "1.0.0",
+  "description": "Mongo DB with Node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Navaneeth R",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "consolidate": "^0.13.1",
+    "express": "^4.13.3",
+    "mongodb": "^2.1.3",
+    "nunjucks": "^2.3.0"
+  }
+}
